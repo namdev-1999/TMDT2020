@@ -1,0 +1,517 @@
+# Translation of Plugins - Custom Order Status for WooCommerce - Development (trunk) in Vietnamese
+# This file is distributed under the same license as the Plugins - Custom Order Status for WooCommerce - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-11-13 03:24:32+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - Custom Order Status for WooCommerce - Development (trunk)\n"
+
+#: includes/class-alg-wc-custom-order-statuses-core.php:598
+#: includes/class-alg-wc-custom-order-statuses-core.php:600
+msgid "Mark %s"
+msgstr "Đánh dấu %s"
+
+#: includes/class-alg-wc-custom-order-statuses-tool.php:284
+msgid "Status slug is already present. Please use another slug name."
+msgstr "Slug trạng thái đã tồn tại. Vui lòng sử dụng slug khác."
+
+#. Author URI of the plugin
+msgid "https://www.tychesoftwares.com/"
+msgstr "https://www.tychesoftwares.com/"
+
+#. Author of the plugin
+msgid "Tyche Softwares"
+msgstr "Tyche Softwares"
+
+#. Plugin URI of the plugin
+msgid "https://www.tychesoftwares.com/store/premium-plugins/custom-order-status-woocommerce/"
+msgstr "https://www.tychesoftwares.com/store/premium-plugins/custom-order-status-woocommerce/"
+
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-general.php:87
+msgid "Default order status for COD (Cash on delivery) payment method"
+msgstr "Trạng thái mặc định cho thanh toán COD (Thanh toán khi nhận hàng)"
+
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-general.php:78
+msgid "Default order status for BACS (Direct bank transfer) payment method"
+msgstr "Trạng thái mặc định cho thanh toán BACS (Chuyển khoản trực tiếp)"
+
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-general.php:136
+msgid "Add custom statuses to admin order preview action buttons"
+msgstr "Thêm trạng thái tùy chỉnh cho nút admin xem trước đơn hàng"
+
+#. translators: Link to the page to create custom statuses.
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-general.php:47
+msgid "Use %s to create, edit and delete custom statuses."
+msgstr "Sử dụng %s để tạo, sửa và xóa trạng thái tùy chỉnh."
+
+#: includes/class-alg-wc-custom-order-statuses-core.php:153
+msgid "Change status: "
+msgstr "Đổi trạng thái:"
+
+#. translators: Custom Order status.
+#: includes/class-alg-wc-custom-order-statuses-core.php:143
+msgid "Change order status to %s"
+msgstr "Đội trạng thái đơn hàng thành %s"
+
+#. translators: List of WC statuses which are paid.
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-general.php:162
+msgid "By default paid statuses are: %s."
+msgstr "Mặc định các trạng thái đã thanh toán là: %s."
+
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-general.php:156
+msgid "Make custom status orders paid"
+msgstr "Chuyển đơn hàng với trạng thái tùy chỉnh thành đã thanh toán"
+
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-general.php:43
+msgid "General Options"
+msgstr "Tùy chọn chung"
+
+#: includes/class-alg-wc-custom-post-type-for-order-statuses.php:426
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-emails.php:109
+msgid "Email content"
+msgstr "Nội dung email"
+
+#: includes/class-alg-wc-custom-post-type-for-order-statuses.php:410
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-emails.php:100
+msgid "Email heading"
+msgstr "Phần mở đầu email"
+
+#: includes/class-alg-wc-custom-post-type-for-order-statuses.php:394
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-emails.php:85
+msgid "Email subject"
+msgstr "Tiêu đề email"
+
+#. translators: $s: admin email
+#. translators: Comma seperated list of emails.
+#: includes/class-alg-wc-custom-post-type-for-order-statuses.php:389
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-emails.php:72
+msgid "Comma separated list of emails. Leave blank to send emails to admin (%s)."
+msgstr "Danh sách email phân tách bởi dấu phẩy. Để trống để gửi email cho admin (%s)."
+
+#: includes/class-alg-wc-custom-post-type-for-order-statuses.php:386
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-emails.php:70
+msgid "Email address"
+msgstr "Địa chỉ email"
+
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-emails.php:62
+msgid "Custom statuses to send emails. Leave blank to send emails on all custom statuses."
+msgstr "Trạng thái tùy chỉnh để gửi email. Để trống để gửi email trên các trạng thái tùy chỉnh."
+
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-emails.php:61
+msgid "Statuses"
+msgstr "Trạng thái"
+
+#: includes/class-alg-wc-custom-post-type-for-order-statuses.php:380
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-emails.php:55
+msgid "Enable section"
+msgstr "Bật vùng này"
+
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-emails.php:49
+msgid "Emails Options"
+msgstr "Tùy chọn Email"
+
+#. translators: $s: default values for the field
+#. translators: 1$s: default value of this field
+#: includes/class-alg-wc-custom-post-type-for-order-statuses.php:398
+#: includes/class-alg-wc-custom-post-type-for-order-statuses.php:414
+#: includes/class-alg-wc-custom-post-type-for-order-statuses.php:430
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-emails.php:46
+msgid "You can also use shortcodes here."
+msgstr "Bạn cũng có thể sử dụng shortcode ở đây."
+
+#. translators: $s: default values for the field
+#. translators: 1$s: default value of this field
+#. translators: Merge tags.
+#: includes/class-alg-wc-custom-post-type-for-order-statuses.php:398
+#: includes/class-alg-wc-custom-post-type-for-order-statuses.php:414
+#: includes/class-alg-wc-custom-post-type-for-order-statuses.php:430
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-emails.php:43
+msgid "Replaced values: %s."
+msgstr "Giá trị thay thế: %s."
+
+#: includes/class-alg-wc-custom-post-type-for-order-statuses.php:375
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-emails.php:30
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-emails.php:54
+msgid "Emails"
+msgstr "Email"
+
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-advanced.php:48
+msgid "Filters priority"
+msgstr "Độ ưu tiên bộ lọc"
+
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-advanced.php:43
+msgid "Advanced Options"
+msgstr "Tùy chọn nâng cao"
+
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-advanced.php:30
+msgid "Advanced"
+msgstr "Nâng cao"
+
+#. translators: WC status prefix.
+#: includes/class-alg-wc-custom-order-statuses-tool.php:204
+msgid "Without %s prefix"
+msgstr "Không tiền tố %s"
+
+#. translators: New Status.
+#: includes/class-alg-wc-custom-order-statuses-core.php:572
+msgid "Change status to %s"
+msgstr "Chuyển trạng thái thành %s"
+
+#. translators: $s: status to
+#. translators: Merge tags - new status.
+#. translators: New Order status.
+#: includes/class-alg-wc-custom-post-type-for-order-statuses.php:418
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-emails.php:104
+#: includes/class-alg-wc-custom-order-statuses-core.php:206
+msgid "Order status changed to %s"
+msgstr "Trạng thái đơn hàng được chuyển thành %s"
+
+#. translators: 1$s: customer email, 2$s admin email
+#. translators: Merge tags for customer & admin emails.
+#: includes/class-alg-wc-custom-post-type-for-order-statuses.php:390
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-emails.php:75
+msgid "Use %1$s to send email to the customer's billing email; %2$s to the admin's email."
+msgstr "Sử dụng %1$s để gửi email tới email thanh toán của khách hàng; %2$s để gửi tới email của admin."
+
+#. translators: 1$s: order number, 2$s: status from, 3$s: status to
+#. translators: Merge tags - Order Number, old status, new status.
+#. translators: WC Order Number, Old status, new status.
+#: includes/class-alg-wc-custom-post-type-for-order-statuses.php:434
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-emails.php:113
+#: includes/class-alg-wc-custom-order-statuses-core.php:212
+msgid "Order #%1$s status changed from %2$s to %3$s"
+msgstr "Trạng thái đơn hàng #%1$s đã chuyển từ %2$s thành %3$s"
+
+#. translators: 1$s: site title, 2$s: order number, 3$s: status to, 4$s: order
+#. date
+#. translators: merge tags - order number, new status, order date.
+#. translators: WC Order Number, New Status & Date on which the order was
+#. placed.
+#: includes/class-alg-wc-custom-post-type-for-order-statuses.php:402
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-emails.php:90
+#: includes/class-alg-wc-custom-order-statuses-core.php:201
+msgid "[%1$s] Order #%2$s status changed to %3$s - %4$s"
+msgstr "[%1$s] Trạng thái đơn hàng #%2$s đã chuyển thành %3$s - %4$s"
+
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-general.php:146
+msgid "Make custom status orders editable"
+msgstr "Làm trạng thái tùy chỉnh đơn hàng có thể chỉnh sửa được"
+
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-advanced.php:49
+msgid "This will set priority for WooCommerce filters used in plugin. Leave zero, if not sure."
+msgstr "Cài đặt này thiết lập độ ưu tiên cho bộ lọc WooCommerce sử dụng trong plugin. Đặt là 0, nếu không chắc."
+
+#: includes/class-alg-wc-custom-order-statuses-tool.php:99
+#: includes/class-alg-wc-custom-order-statuses-tool.php:219
+#: includes/class-alg-wc-custom-post-type-for-order-statuses.php:352
+#: includes/class-alg-wc-custom-post-type-for-order-statuses.php:482
+msgid "Text Color"
+msgstr "Màu chữ"
+
+#: includes/class-alg-wc-custom-order-statuses-tool.php:98
+#: includes/class-alg-wc-custom-order-statuses-tool.php:218
+#: includes/class-alg-wc-custom-post-type-for-order-statuses.php:348
+#: includes/class-alg-wc-custom-post-type-for-order-statuses.php:481
+msgid "Color"
+msgstr "Màu"
+
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-general.php:105
+msgid "Enable colors in status column"
+msgstr "Bật màu trong cột trạng thái"
+
+#. Description of the plugin
+msgid "Add custom order statuses to WooCommerce."
+msgstr "Thêm trạng thái tùy chỉnh cho WooCommerce."
+
+#. Plugin Name of the plugin
+msgid "Custom Order Status for WooCommerce"
+msgstr "Custom Order Status for WooCommerce"
+
+#: includes/class-alg-wc-custom-order-statuses-tool.php:472
+msgctxt "Order status"
+msgid "Failed"
+msgstr "Thất bại"
+
+#: includes/class-alg-wc-custom-order-statuses-tool.php:471
+msgctxt "Order status"
+msgid "Refunded"
+msgstr "Đã hoàn lại tiền"
+
+#: includes/class-alg-wc-custom-order-statuses-tool.php:470
+msgctxt "Order status"
+msgid "Cancelled"
+msgstr "Đã hủy"
+
+#: includes/class-alg-wc-custom-order-statuses-tool.php:469
+msgctxt "Order status"
+msgid "Completed"
+msgstr "Đã hoàn thành"
+
+#: includes/class-alg-wc-custom-order-statuses-tool.php:468
+msgctxt "Order status"
+msgid "On hold"
+msgstr "Đang giữ"
+
+#: includes/class-alg-wc-custom-order-statuses-tool.php:467
+msgctxt "Order status"
+msgid "Processing"
+msgstr "Đang xử lý"
+
+#: includes/class-alg-wc-custom-order-statuses-tool.php:466
+msgctxt "Order status"
+msgid "Pending payment"
+msgstr "Đang chờ thanh toán"
+
+#: includes/class-alg-wc-custom-order-statuses-tool.php:395
+msgid "Delete failed (status not found)."
+msgstr "Xóa thất bại (không tìm thấy trạng thái)."
+
+#: includes/class-alg-wc-custom-order-statuses-tool.php:392
+msgid "Delete failed."
+msgstr "Xóa thất bại."
+
+#. translators: number of orders for which status has been changed.
+#: includes/class-alg-wc-custom-order-statuses-tool.php:389
+msgid "Status has been changed for %d orders."
+msgstr "Trạng thái đã được thay đổi cho %d đơn hàng."
+
+#: includes/class-alg-wc-custom-order-statuses-tool.php:386
+msgid "Status has been successfully deleted."
+msgstr "Trạng thái đã được xóa thành công."
+
+#: includes/class-alg-wc-custom-order-statuses-tool.php:352
+msgid "Status was not edited!"
+msgstr "Trạng thái không thể chỉnh sửa được!"
+
+#: includes/class-alg-wc-custom-order-statuses-tool.php:350
+msgid "Status has been successfully edited!"
+msgstr "Trạng thái đã được chỉnh sửa thành công!"
+
+#: includes/class-alg-wc-custom-order-statuses-tool.php:336
+msgid "Status label is empty. Status was not edited!"
+msgstr "Nhãn trạng thái trống. Trạng thái đã không được chỉnh sửa!"
+
+#: includes/class-alg-wc-custom-order-statuses-tool.php:318
+msgid "Status was not added!"
+msgstr "Trạng thái đã không được thêm!"
+
+#: includes/class-alg-wc-custom-order-statuses-tool.php:317
+msgid "New status has been successfully added!"
+msgstr "Trạng thái mới đã được thêm thành công!"
+
+#: includes/class-alg-wc-custom-order-statuses-tool.php:302
+msgid "Duplicate slug (default WooCommerce status). Status was not added!"
+msgstr "Trùng slug (trạng thái mặc định của WooCommerce). Trạng thái đã không được thêm!"
+
+#: includes/class-alg-wc-custom-order-statuses-tool.php:298
+msgid "Duplicate slug. Status was not added!"
+msgstr "Trùng slug. Trạng thái đã không được thêm!"
+
+#: includes/class-alg-wc-custom-order-statuses-tool.php:291
+msgid "Status label is empty. Status was not added!"
+msgstr "Nhãn trạng thái trống. Trạng thái đã không được thêm!"
+
+#: includes/class-alg-wc-custom-order-statuses-tool.php:288
+msgid "The length of status slug must be 17 or less characters. Status was not added!"
+msgstr "Độ dài của slug trạng thái không được vượt quá 17 ký tự. Trạng thái đã không được thêm!"
+
+#: includes/class-alg-wc-custom-order-statuses-tool.php:279
+msgid "Status slug is empty. Status was not added!"
+msgstr "Slug trạng thái trống. Trạng thái đã không được thêm!"
+
+#: includes/class-alg-wc-custom-order-statuses-tool.php:251
+msgid "The tool lets you add or delete any WooCommerce orders custom status."
+msgstr "Công cụ để bạn thêm hoặc xóa bất kỳ trạng thái tùy chỉnh nào của đơn hàng WooCommerce."
+
+#: includes/class-alg-wc-custom-order-statuses-tool.php:250
+msgid "Custom Order Status Tool"
+msgstr "Công cụ trạng thái tùy chỉnh đơn hàng"
+
+#: includes/class-alg-wc-custom-order-statuses-tool.php:226
+msgid "Status"
+msgstr "Trạng thái"
+
+#: includes/class-alg-wc-custom-order-statuses-tool.php:212
+msgid "Clear form"
+msgstr "Xóa form"
+
+#: includes/class-alg-wc-custom-order-statuses-tool.php:209
+msgid "Add new custom status"
+msgstr "Thêm trạng thái tùy chỉnh mới"
+
+#: includes/class-alg-wc-custom-order-statuses-tool.php:209
+msgid "Edit custom status"
+msgstr "Sửa trạng thái tùy chỉnh"
+
+#. translators: Icon page Link.
+#: includes/class-alg-wc-custom-order-statuses-tool.php:200
+msgid "You can check icon codes <a target=\"_blank\" href=\"%s\">here</a>"
+msgstr "Bạn có thể kiểm tra mã icon <a target=\"_blank\" href=\"%s\">tại đây</a>"
+
+#. translators: plugin settings link.
+#: includes/class-alg-wc-custom-order-statuses-tool.php:159
+msgid "\"Delete with fallback\" button will delete custom status and change status for every order with that status to \"fallback status\". Fallback status can be set in <a href=\"%s\">plugin's general settings</a>. Please note - if you have large number of orders this may take longer."
+msgstr "Nút \"Xóa kèm dự phòng\" sẽ xóa trạng thái tùy chỉnh và chuyển trạng thái cho mọi đơn hàng với trạng thái đó sang \"trạng thái dự phòng\". Trạng thái dự phòng có thể được đặt tại <a href=\"%s\">cài đặt tổng quan</a>. Vui lòng chú ý - nếu bạn có một số lượng lớn đơn hàng điều này sẽ diễn ra lâu hơn."
+
+#: includes/class-alg-wc-custom-order-statuses-tool.php:155
+msgid "Status Table"
+msgstr "Bảng trạng thái"
+
+#: includes/class-alg-wc-custom-order-statuses-tool.php:145
+#: includes/class-alg-wc-custom-order-statuses-tool.php:190
+msgid "Edit"
+msgstr "Chỉnh sửa"
+
+#: includes/class-alg-wc-custom-order-statuses-tool.php:144
+msgid "Delete with fallback"
+msgstr "Xóa kèm dự phòng"
+
+#: includes/class-alg-wc-custom-order-statuses-tool.php:143
+msgid "Delete"
+msgstr "Xóa"
+
+#: includes/class-alg-wc-custom-order-statuses-tool.php:139
+msgid "This status can not be deleted as it's set to be the fallback status. Change 'Fallback Delete Order Status' to some other value in plugin's settings to delete this status."
+msgstr "Trạng thái này không thể xóa vì nó được chọn làm trạng thái dự phòng. Chuyển 'Trạng thái đơn hàng dự phòng' sang giá trị khác trong cài đặt plugin để xóa trạng thái này."
+
+#. translators: New status.
+#: includes/class-alg-wc-custom-order-statuses-tool.php:133
+msgid "Status for orders with this status will be changed to '%s'."
+msgstr "Trạng thái của đơn hàng với trạng thái này sẽ được chuyển thành '%s'."
+
+#: includes/class-alg-wc-custom-order-statuses-tool.php:121
+#: includes/class-alg-wc-custom-order-statuses-tool.php:130
+msgid "Are you sure?"
+msgstr "Bạn chắc chắn chứ?"
+
+#: includes/class-alg-wc-custom-order-statuses-tool.php:100
+msgid "Actions"
+msgstr "Thao tác"
+
+#: includes/class-alg-wc-custom-order-statuses-tool.php:97
+#: includes/class-alg-wc-custom-order-statuses-tool.php:217
+#: includes/class-alg-wc-custom-post-type-for-order-statuses.php:342
+#: includes/class-alg-wc-custom-post-type-for-order-statuses.php:480
+msgid "Icon Code"
+msgstr "Mã Icon"
+
+#: includes/class-alg-wc-custom-order-statuses-tool.php:96
+#: includes/class-alg-wc-custom-order-statuses-tool.php:216
+msgid "Label"
+msgstr "Nhãn"
+
+#: includes/class-alg-wc-custom-order-statuses-tool.php:95
+#: includes/class-alg-wc-custom-order-statuses-tool.php:215
+#: includes/class-alg-wc-custom-post-type-for-order-statuses.php:335
+msgid "Slug"
+msgstr "Slug"
+
+#: includes/settings/class-alg-wc-settings-custom-order-statuses.php:67
+msgid "Reset"
+msgstr "Reset"
+
+#: includes/settings/class-alg-wc-settings-custom-order-statuses.php:61
+msgid "Reset Settings"
+msgstr "Reset cài đặt"
+
+#: includes/settings/class-alg-wc-settings-custom-order-statuses.php:66
+msgid "Reset section settings"
+msgstr "Reset vùng cài đặt"
+
+#: includes/class-alg-wc-custom-order-statuses-tool.php:42
+#: includes/class-alg-wc-custom-order-statuses-tool.php:43
+#: includes/settings/class-alg-wc-settings-custom-order-statuses.php:30
+msgid "Custom Order Status"
+msgstr "Custom Order Status"
+
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-general.php:126
+msgid "Enable colors"
+msgstr "Bật màu"
+
+#. translators: Link to the Pro version.
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-general.php:121
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-general.php:131
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-general.php:142
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-general.php:152
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-general.php:164
+msgid "Get <a href=\"%s\" target=\"_blank\">Custom Order Status for WooCommerce Pro</a> to enable this option."
+msgstr "Cài <a href=\"%s\" target=\"_blank\">Custom Order Status for WooCommerce Pro</a> để bật tùy chọn này."
+
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-general.php:115
+msgid "Add custom statuses to admin order list action buttons"
+msgstr "Thêm trạng thái tùy chỉnh vào nút thao tác danh sách đơn hàng cho quản trị viên"
+
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-general.php:102
+msgid "No fallback"
+msgstr "Không có dự phòng"
+
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-general.php:97
+msgid "When you delete some custom status with \"Custom Order Statuses Tool\", all orders with that status will be updated to this fallback status. Please note that all fallback status triggers (email etc.) will be activated."
+msgstr "Khi bạn xóa trạng thái tùy chỉnh với \"Công cụ trạng thái tùy chỉnh đơn hàng\", tất cả đơn hàng với trạng thái đó sẽ được cập nhật sang trạng thái dự phòng này. Vui lòng chú ý rằng tất cả các hành động kích hoạt của trạng thái dự phòng (email, v.v.) sẽ được bật."
+
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-general.php:96
+msgid "Fallback delete order status"
+msgstr "Trạng thái đơn hàng dự phòng"
+
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-general.php:75
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-general.php:84
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-general.php:93
+msgid "No changes"
+msgstr "Không có thay đổi"
+
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-general.php:70
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-general.php:79
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-general.php:88
+msgid "Plugin must be enabled to add custom statuses to the list."
+msgstr "Plugin phải được bật để thêm trạng thái tùy chỉnh vào danh sách."
+
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-general.php:69
+msgid "You can change the default order status here. However some payment gateways may change this status immediately on order creation. E.g. BACS gateway will change status to On-hold."
+msgstr "Bạn có thể chuyển trạng thái mặc định ở đây. Tuy nhiên một số cổng thanh toán có thẻ chuyển trạng thái này ngay khi đơn hàng được tạo. Ví dụ thanh toán chuyển khoản sẽ chuyển trạng thái sang Đang giữ."
+
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-general.php:68
+msgid "Default order status"
+msgstr "Trạng thái đơn hàng mặc định"
+
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-general.php:61
+msgid "Add custom statuses to admin reports"
+msgstr "Thêm trạng thái tùy chỉnh vào báo cáo admin"
+
+#: includes/class-alg-wc-custom-order-statuses-tool.php:190
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-general.php:55
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-general.php:62
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-general.php:116
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-general.php:137
+msgid "Add"
+msgstr "Thêm"
+
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-general.php:54
+msgid "Add custom statuses to admin order bulk actions"
+msgstr "Thêm trạng thái tùy chỉnh vào tạc vụ đơn hàng của admin"
+
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-general.php:106
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-general.php:147
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-general.php:157
+msgid "Enable"
+msgstr "Bật"
+
+#: includes/settings/class-alg-wc-custom-order-statuses-settings-general.php:30
+msgid "General"
+msgstr "Tổng quan"
+
+#: class-alg-wc-custom-order-statuses.php:148
+msgid "Unlock All"
+msgstr "Mở khóa tất cả"
+
+#: class-alg-wc-custom-order-statuses.php:146
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: includes/class-alg-wc-custom-order-statuses-tool.php:249
+msgid "<<Plugin settings"
+msgstr "<<Cài đặt plugin"

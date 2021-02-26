@@ -1,0 +1,23 @@
+.postaffiliatepro .formBottomNote {padding-top:0px; padding-bottom:15px}
+.postaffiliatepro .greyNote {color:#999999; font-size: smaller !important}
+.postaffiliatepro td.label {width:400px}
+.postaffiliatepro .heading {width: 400px; vertical-align: middle; font-weight: 600}
+
+/*FORMS*/
+.postaffiliatepro .text {border: 2px solid #666666; background-color: #FFFFCC}
+.postaffiliatepro .text-focus {border: 2px solid #666666; background-color: #ccccff}
+.postaffiliatepro .integrationsTile {text-align: center;display: block;float: left;margin: 0 4em 3em 0}
+.postaffiliatepro .integrationsTitle {font-weight: bold;line-height: 2.5em}
+.postaffiliatepro .greyedOut {opacity: 0.2;filter: alpha(opacity=20);/*msie*/}
+.postaffiliatepro .integrationsTitleImage {width:128px;height:128px;display: block;float: left;margin: 0 2em 2em 0}
+
+.postaffiliatepro #generalInfoContent {display: block;float: left;margin: 2em 0 3em}
+.postaffiliatepro #generalInfoContent .column {width: 30%;display: block;float: left;padding-left: 1em}
+.postaffiliatepro #generalInfoContent .column h3 {margin-top: 0px}
+
+/* Side Widget */
+#wc-pap-recompute-commissions h2.ui-sortable-handle {background: url(../img/menu-icon.png) no-repeat 6px; padding-left: 2em}
+#poststuff #wc-pap-recompute-commissions .inside {margin: 0; padding: 0 12px; text-align: right}
+#papRecomputionContent {padding: 12px}
+#papRecomputionText {text-align: left; color: #999; font-size: smaller; font-style: italic; padding-bottom: 1em}
+#papRecomputionNote {text-align: left; display: none; background: #ffdddd; border: dotted 1px #ffcccc; border-radius: 2px; padding: 1ex 1em; margin-bottom: 12px}
