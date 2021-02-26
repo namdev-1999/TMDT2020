@@ -1,0 +1,14 @@
+2021-02-22T20:11:28+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 1061
+2021-02-22T20:11:29+00:00 NOTICE debug :: Order ID 1061 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://tmdt2020group02.store/product/laptop-hp-15s-du1056tu-6405u-4gb-512gb-win10-1w7r5pa/
+        )
+
+)
+
+2021-02-22T20:13:20+00:00 NOTICE order.member.updated :: Updated lechihan10dt2@gmail.com subscriber status to subscribed and language to vi
+2021-02-22T20:13:20+00:00 NOTICE order_submit.success :: addStoreOrder :: #1061 :: email: lechihan10dt2@gmail.com :: landing site https://tmdt2020group02.store/product/laptop-hp-15s-du1056tu-6405u-4gb-512gb-win10-1w7r5pa/
